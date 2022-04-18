@@ -5,3 +5,4 @@ node_modules
 4
 Ejemplo APIrest
 *.pptx
+/*/node_modules
